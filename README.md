@@ -4,7 +4,7 @@ Windows
 -----------------------------------
   **Download** [.zip](https://anryze.com/miner/windows/miner-1.0.zip)
   
-  ***
+
 
 Ubuntu/Debian
 -----------------------------------
