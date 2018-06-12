@@ -1,9 +1,11 @@
-Download
------------------------------------
-### Windows
-[.zip](https://anryze.com/miner/windows/miner-1.0.zip)
 
-### Linux
+### Windows
+**Download** [.zip](https://anryze.com/miner/windows/miner-1.0.zip)
+
+### Ubuntu/Debian
+**Download** [.tar.gz](https://anryze.com/miner/windows/miner-1.0.tar.gz)
+##### Dependencies
+
 
 Requirements for the hardware:
 -----------------------------------
