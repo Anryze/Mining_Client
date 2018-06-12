@@ -1,10 +1,15 @@
+Anryze Mining Client
+=====================
+Windows
+-----------------------------------
+  **Download** [.zip](https://anryze.com/miner/windows/miner-1.0.zip)
+  
+  ***
 
-### Windows
-**Download** [.zip](https://anryze.com/miner/windows/miner-1.0.zip)
-
-### Ubuntu/Debian
-**Download** [.tar.gz](https://anryze.com/miner/windows/miner-1.0.tar.gz)
-##### Dependencies
+Ubuntu/Debian
+-----------------------------------
+  **Download** [.tar.gz](https://anryze.com/miner/windows/miner-1.0.tar.gz)
+  ##### Dependencies
 
 
 Requirements for the hardware:
