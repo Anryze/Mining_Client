@@ -8,10 +8,7 @@ Windows
 
 Ubuntu/Debian
 -----------------------------------
-  **Download** [.tar.gz](https://anryze.com/miner/windows/miner-1.0.tar.gz)
-  ### Dependencies
-* `apt install default-jre`
-* `apt install python3.6`
+Watch linux branch.
 
 
 
