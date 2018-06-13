@@ -1,6 +1,6 @@
 Ubuntu/Debian
 -----------------------------------
-  **Download** [.tar.gz](https://anryze.com/miner/windows/miner-1.0.tar.gz)
+  **Download** [.tar.gz](https://anryze.com/miner/linux/miner-1.0.tar.gz)
   ### Dependencies
 *  `sudo add-apt-repository ppa:linuxuprising/java`
 *  `sudo apt-get update`
