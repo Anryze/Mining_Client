@@ -1,9 +1,16 @@
-Download
+Anryze Mining Client
+=====================
+Windows
 -----------------------------------
-### Windows
-[.zip](https://anryze.com/miner/windows/miner-1.0.zip)
+  **Download** [.zip](https://anryze.com/miner/windows/miner-1.0.zip)
+  
 
-### Linux
+
+Ubuntu/Debian
+-----------------------------------
+Watch linux branch.
+
+
 
 Requirements for the hardware:
 -----------------------------------
